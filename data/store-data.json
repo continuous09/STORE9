@@ -266,5 +266,5 @@
     "position": "right",
     "defaultMessage": "Hi Black T-Shirt, I'd like to order a T-shirt."
   },
-  "ordersApiUrl": "https://continuous09.github.io/STORE9/"
+  "ordersApiUrl": "https://store-9.vercel.app/"
 }
