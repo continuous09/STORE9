@@ -134,7 +134,30 @@
       "meta": []
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "fullName": ";uigyulvi",
+      "phone": "8648641856",
+      "city": "o;;hlib.",
+      "notes": "'ih0'i/0h",
+      "items": [
+        {
+          "id": "slim-fit-M-Deep Black",
+          "productId": "slim-fit",
+          "name": "Black Tee / Slim",
+          "size": "M",
+          "color": "Deep Black",
+          "quantity": 2,
+          "price": 200,
+          "image": "https://images.pexels.com/photos/7671165/pexels-photo-7671165.jpeg?auto=compress&cs=tinysrgb&w=800"
+        }
+      ],
+      "total": 400,
+      "date": "2026-02-11T17:45:05.455Z",
+      "id": "ord-1770831905590",
+      "status": "pending"
+    }
+  ],
   "content": {
     "home": {
       "heroEyebrow": "Ouarzazate . Morocco",
@@ -266,5 +289,5 @@
     "position": "right",
     "defaultMessage": "Hi Black T-Shirt, I'd like to order a T-shirt."
   },
-  "ordersApiUrl": "https://store-9.vercel.app/"
+  "ordersApiUrl": "https://store-9.vercel.app/api/orders"
 }
