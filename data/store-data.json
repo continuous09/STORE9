@@ -136,6 +136,28 @@
   ],
   "orders": [
     {
+      "fullName": "11111",
+      "phone": "0679460301",
+      "city": "waurzazate",
+      "notes": "[pk|l'",
+      "items": [
+        {
+          "id": "oversized-L-Deep Black",
+          "productId": "oversized",
+          "name": "Black Tee / Oversized",
+          "size": "L",
+          "color": "Deep Black",
+          "quantity": 2,
+          "price": 200,
+          "image": "https://images.pexels.com/photos/7671168/pexels-photo-7671168.jpeg?auto=compress&cs=tinysrgb&w=800"
+        }
+      ],
+      "total": 400,
+      "date": "2026-02-11T17:51:10.386Z",
+      "id": "ord-1770832271534",
+      "status": "pending"
+    },
+    {
       "fullName": ";uigyulvi",
       "phone": "8648641856",
       "city": "o;;hlib.",
